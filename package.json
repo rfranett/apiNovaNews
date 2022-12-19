@@ -1,0 +1,25 @@
+{
+  "name": "apinovanews",
+  "version": "1.0.0",
+  "description": "apiParaEspelharNoticias",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev" :"nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfranett/apiNovaNews.git"
+  },
+  "keywords": [],
+  "author": "franett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfranett/apiNovaNews/issues"
+  },
+  "homepage": "https://github.com/rfranett/apiNovaNews#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
